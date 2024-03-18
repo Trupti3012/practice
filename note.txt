@@ -1,0 +1,5 @@
+this is hello world code
+int main()
+{
+	cout<<"hello world";
+}
